@@ -5,6 +5,7 @@ namespace FreeFood
 {
     public class Tester
     {
+        // VERY SIMPLE TEST CLASS - EXPLORE SOMETHING LIKE NUNIT OR XUNIT WHEN A BIT MORE FAMILIAR WITH C#
         public void TestCalculator()
         {
             var calculator = new FreeFoodCalculator();

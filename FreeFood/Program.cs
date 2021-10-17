@@ -43,6 +43,8 @@ namespace FreeFood
 
                 var period = Console.ReadLine();
 
+                // ADD SOME ERROR HANDLING & GUARDING HERE 
+
                 periods.Add(period);
             }
 

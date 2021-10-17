@@ -18,6 +18,8 @@ namespace FreeFood
                 var start = int.Parse(days[0]);
                 var end = int.Parse(days[1]);
 
+                // MORE ERROR HANDLING AND GUARDING HERE
+
                 var daysInRange = GetDaysInRange(start, end);
 
                 foreach (var day in daysInRange)
