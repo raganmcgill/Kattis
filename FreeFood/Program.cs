@@ -4,6 +4,10 @@ using System.Linq;
 
 namespace FreeFood
 {
+
+    /// <summary>
+    /// https://open.kattis.com/problems/freefood
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
